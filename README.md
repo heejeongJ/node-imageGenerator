@@ -1,2 +1,3 @@
 # node-imageGenerator
-실습을 위해 FORK를 해주세요!
+MS MLSA 실습
+DALL-E 이용, 프롬프트를 통한 이미지 출력 웹사이트
